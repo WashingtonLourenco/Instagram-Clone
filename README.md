@@ -1,7 +1,7 @@
                                                        # Instagram-Clone
 Exercício realizado no Bootcamp everis FullStack Developer pela Digital Innovation One, onde o objetivo era recriar a página inicial do Instragam.
 
-                        ###############################Final Project Image##################################
+                      ###############################Final Project Image##################################
 
 
 
